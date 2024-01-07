@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hoodie &#8211; Urban Utopia</title>
+	<atom:link href="https://rajnair01.github.io/UrbanUtopia/product-category/hoodie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rajnair01.github.io/UrbanUtopia/</link>
+	<description>Craft Your Unique Urban Sanctuary.</description>
+	<lastBuildDate>Fri, 05 Jan 2024 19:30:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>THE NORTH FACE Men&#8217;s Hoodie</title>
+		<link>https://rajnair01.github.io/UrbanUtopia/product/the-north-face-mens-hoodie/</link>
+					<comments>https://rajnair01.github.io/UrbanUtopia/product/the-north-face-mens-hoodie/#respond</comments>
+		
+		<dc:creator><![CDATA[rajnair]]></dc:creator>
+		<pubDate>Fri, 05 Jan 2024 15:43:26 +0000</pubDate>
+				<guid isPermaLink="false">https://rajnair01.github.io/UrbanUtopia/?post_type=product#038;p=30</guid>
+
+					<description><![CDATA[For those who wake up before sunrise or those who love to relax after an adventure from dawn to sunset,...]]></description>
+										<content:encoded><![CDATA[<p>For those who wake up before sunrise or those who love to relax after an adventure from dawn to sunset, our beloved hoodie is ideal to wear when the air is fresh. Available in a variety of colours and embroidered with The North Face® logo for a &#8216;casual explorer&#8217; look.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rajnair01.github.io/UrbanUtopia/product/the-north-face-mens-hoodie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
